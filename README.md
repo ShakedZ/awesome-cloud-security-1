@@ -282,7 +282,7 @@
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![License](https://img.shields.io/badge/License-EPL_2.0-red.svg)](https://opensource.org/licenses/EPL-2.0)
 
 To the extent possible under law, Jacob Silva has waived all copyright and
 related or neighboring rights to this work.
